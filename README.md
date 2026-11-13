@@ -1,1 +1,1 @@
-# Tisikikagakugairon
+# 知識科学概論
